@@ -4,7 +4,7 @@ var expresshbs = require('express-handlebars')
 
 var bodyparser = require('body-parser')
 
-var messagebird = require('messagebird')('ztBNAwehvq1PA9qp4s42qZcBB')
+var messagebird = require('messagebird')('YOUR ACCESS TOKEN')
 
 var app = express()
 
